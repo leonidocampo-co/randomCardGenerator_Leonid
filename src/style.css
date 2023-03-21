@@ -1,1 +1,21 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.carta {
+  background-color: rgb(60, 192, 60);
+  width: 100px;
+  height: 150px;
+  margin-top: 45px;
+  border: 5px solid darkblue;
+  font-size: 7vh;
+}
+
+.top {
+  text-align: left;
+  font-size: 7vh;
+}
+
+.bottom {
+  text-align: right;
+  font-size: medium;
+  font-size: 7vh;
+}
